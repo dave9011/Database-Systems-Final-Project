@@ -1,0 +1,24 @@
+1,Bruce,Wayne,500 Wayne Acres,Chicago,IL,60694,United States,The.Dark.Knight@yahoo.com,no,1990-07-04
+24,Jack,Bauer,0824 Standford Ave,Los Angeles,CA,90210,United States,counterterrorism@ctu.mu,yes,1990-09-04
+300,Leonidas,I,300 Phalanx Cr,Sparta,null,10300,Greece,xerxes_cant_hold_me@aol.com,yes,1991-04-05
+1990,Carlos,Vives,Carrera 15E #9,Bogota,null,null,Colombia,laGotaFresca@hotmail.com,no,1993-01-19
+3876,Michael,Buble,1867 Paso de los Caminantes,Montevideo,null,91600,Uruguay,sway_with_me@yahoo.com,no,1995-12-13
+4567,Betty,Boop,369 Pokadot Dr,Louisville,KY,40218,United States,bettyB@aol.com,no,1996-04-29
+6969,Peter,Parker,345 W 48th St,New York,NY,10036,United States,webslinger@gmail.com,no,1997-03-07
+8700,Charles,LaRousse,218 rue de la Tombe-Issoire,Paris,null,75014,France,detectiveLaRousee@pi.net,yes,1997-12-08
+9498,Kanye,West,"2121 S Tan Ct",Chicago,IL,60616,United States,Mr_West@msn.com,no,1999-02-12
+10983,Clark,Kent,157 Red Sun Ln,Smallville,KS,66109,United States,man_of_steel@hotmail.com,yes,2000-05-24
+
+18521,Sasuke,Uchiha,3-4-11,Kyoto,null,601-1437,Japan,sharigan.user@aol.com,no,2000-10-31
+35082,Andrew,Wiggins,"Schorbachstrasse 9",Hanover,null,30451,Germany,no1draftpcik2014@gmail.com,yes,2001-03-13
+48102,Hong,Phooey,"21F/F, One Kowloon, 1Wang Yuen Street","Kowloon Bay",Hong Kong,null,China,kungfuphooey@msn.com,no,2001-05-02
+154896,Le,Chifre,"56 Avenue de Wagram",Paris,null,75017,France,onlinePokerMaster007@yahoo.com,no,2003-06-24
+189202,Mick,Dundee,"304 Kangaroo Drive",Sidney,NSW,5204,Australia,crocBoots@gmail.com,yes,2004-04-23
+2017598,Jason,Voorhees,#38 Calle Palmas Rosas,Humacao,FL,00791,Puerto Rico,iHateFreddy@gmail.com,yes,2004-08-15
+2892012,Evaristo,Perez,"Dr. Rio de la Loza 149, Col. Doctores, Delegacion Cuauhtemoc","DF,Mexico",null,07900,Mexico,evaristo_tornados@hotmail.com,no,2005-01-11
+3145092,James,Bond,"P.O. Box 1300",London,null,SE1 1BD,England,license_to_kill_gmail.com,yes,2006-03-30
+5555444,Bruce,Banner,"Rua Visconde de Porto Seguro 1238",Sao Paulo,null,04642-000,Brazil,greenGamma@yahoo.com,yes,2006-12-25
+6884042,Lebron,James,#6 Players Cr,Miami,FL,33126,United States,theKing@hotmail.com,yes,2007-02-28
+9154982,Lionel,Messi,"Avigunda Pearson,93",Barcelona,null,08034,Spain,laPulga@gmail.com,yes,2009-10-11
+9200006,Ricky,Rubio,"Calle Concejal Benito Martin Lozano,14",Madrid,null,28005,Spain,tricky_ricky@hotmail.com,yes,2012-07-25
+9203569,Michael,Corleone,"Via Coltellieri,46",Palermo,Sicily,90133,Italy,the_godfather@aol.com,yes,2013-01-01

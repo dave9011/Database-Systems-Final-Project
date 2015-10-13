@@ -1,0 +1,24 @@
+1,Orlando,FL,United States
+2,Detroit,MI,United States
+3,Scottsdale,AZ,United States
+4,Santa Fe,NM,United States
+5,Denver,CO,United States
+6,Austin,TX,United States
+7,Philadelphia,PA,United States
+8,Nashville,TN,United States
+9,New York,NY,United States
+10,Shanghaii,null,China
+11,Hong Kong,null,China
+12,Mexico City,null,Mexico
+13,Brasilia,null,Brazil
+14,London,null,England
+15,Munich,null,Germany
+16,Madrid,null,Spain
+17,Frankfurt,null,Germany
+18,Bogota,null,Colombia
+19,Paris,null,France
+20,Florence,null,Italy
+21,Tokyo,null,Japan
+22,New Delhi,null,India
+23,Sydney,null,Australia
+24,Kyoto,null,Japan

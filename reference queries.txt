@@ -1,0 +1,35 @@
+
+#select customer_id as 'ID',customer_Fname as 'First Name',customer_Lname as 'Last Name',order_id as 'Order ID',
+				
+-- select distinct customer_id,customer_Fname as FirstName,customer_Lname as LastName,orders_id,price_total as OrderTotal,city,country
+-- 	from (select customer_id,customer_Fname,customer_Lname
+-- 				from customer) as X natural join shipment natural join orders natural join warehouse;
+
+-- #update the cost of each order line in the order_line table
+-- update order_line ol
+-- 	inner join(
+-- 		select product_id, SUM(product_price) as price
+-- 			from product
+-- 			group by product_id
+-- 	) y on ol.product_id = y.product_id
+-- 	set ol.order_line_cost = ol.order_line_quantity*y.price;
+-- 		
+-- 
+-- select * from order_line;
+-- 
+-- #update the total cost of the order and the total items ordered in the orders table
+-- update orders o
+-- 	inner join(
+-- 		select orders_id, SUM(order_line_cost) as total, sum(order_line_quantity) as lineQuantity
+-- 			from order_line
+-- 			group by orders_id
+-- 	) x on o.orders_id = x.orders_id
+-- 	set o.price_total = x.total, o.total_items = x.lineQuantity;
+
+-- select orders.orders_id as 'Order ID',products.product_id as 'Product ID',product_name as 'Product Name',shipment_quantity as 'Quantity'#,order_line_cost_ as 'Amount payed'
+-- 		from customers,shipments,order_lines,products,orders
+-- 		where  (customers.customer_Fname="Bruce" and customers.customer_Lname="Wayne") and
+-- 			   customers.customer_id = shipments.customer_id and 
+-- 			   order_lines.order_line_id = shipments.order_line_id and
+-- 			   products.product_id = order_lines.product_id and
+-- 			   orders.orders_id = order_lines.orders_id;

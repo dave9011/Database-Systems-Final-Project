@@ -1,0 +1,43 @@
+256,Swiss Army Backpack-Black and White,null,Sports and Outdoors,65.99,3405,new,4.3
+836,Batarangs-1500 Count,"Put fear into any of Gotham's criminals with these lightweight,titanium batarangs.Foldable for utility belt fit.",Sports and Outdoors,35800.99,109540789,new,5.0
+1098,Nike Hyperfuse-Grey/Orange/Green-Size 9.5,"Cut, crossover, or dunk with these ultra light, ultra stylish basketball shoes by Nike.",Apparel,79.99,2190,new,4.6
+1378,Samsung Series 11 Ultrabook,"The latest sleek, fast, and powerful ultrabook by Samsung, featuring
+ Intel Core i9 Processor 3.5 GHZ, 12GB RAM, 500GB SSD, and Windows 8.",Electronics,1850.00,8039,new,4.9
+1957,Grappling Hook-200ft,null,Sports and Outdoors,119.99,756,new,4.5
+2567,Italy Replica Home Jersey,"Wear the jersey the Italy soccer team wore during their road to the FIFA World Cup Championship",Sports and Outdoors,74.99,2546,new,4.6
+2804,Gary Foreman Grill,null,Kithcen,40,56,used,3.8
+3050,Playstation 4,"Playstation 4 is the new home-entertainment console by Sony. Play games, watch movies, listen to music,and surf the web.",Video Games,399.99,656,new,5.0
+3156,Windows Vista OS 32-bit,"Microsoft's Windows XP successor comes will make your PC use faster and easier than ever.",Electronics,135.99,13,used,3.1
+3201,Uncharted 4,"Nathan Drake returns to action in Naughty Dog's PS4 debut.",Video Games,59.99,18614,new,4.9
+3875,Volcom Spring Break Trunks-medium,null,Apparel,48.99,4209,new,4.1
+3879,Olay Sensitive Foaming Face Wash,null,Beauty,5.99,1556,new,3.9
+4000,500GB SanDisk USB 3.0 Flash Drive,"Transfer files in the blink of an eye with the all new USB 3.0 technology.",Electronics,123.99,687,new,5.0
+4141,Red Superhero Boots,"Lightweight,flexible,aerodynamic,resistant to water,fire,pressure and stylish.",Apparel,1500.00,35,new,5.0
+4510,Harry Potter and the Deathly Hallows,"The long-awaited ending to the story of Harry
+ Potter, the boy who lived, and one of the most popular book series of the last decade.",Books,24.99,5467,new,5.0
+5604,NBA Derrick Rose Bulls Home Jersey-Medium,null,Apparel,74.99,1651,new,4.6
+6081,3D 50-inch Panasonic TV,null,Electronics,1250.00,978,new,4.4
+7019,Kanye West Dropout Bear T-Shirt,"100% Cotton, handwash only",Apparel,24.99,2056,new,4.3
+8278,NBA Stephen Curry Warriors Away Jersey,null,Apparel,74.99,1345,new,4.7
+8561,Green Bay Packers Frozen Mug,null,Miscellaneous,12.99,5880,new,4.1
+8883,Battlefield 5,"DICE is back with the next game in the award-winning realistic FPS shooter series",Video Games,59.99,8759,new,4.7
+9201,Huggies Diapers for Newborn Economy Pack-250 count,null,Health and Personal Care,69.99,8964,new,4.4
+10978,Breaking Bad Season 7,"Season 7 of AMC's hit series Breaking Bad",Movies and TV Shows,49.99,1678,new,5.0
+11837,Samsung 22-inch LCD Monitor,"Perfect for TV viewing or playing your favorite video games in HD",Electronics,249.99,3856,new,4.6
+11910,Wooden Kitchen Chair-Cherry Finish,null,Furniture,39.99,4560,new,4.0
+12049,A Beginner's Guide to: HTML5,"Learn the basics of building your own webpage with HTML5",Books,10.50,3,used,4.8
+13019,TI-99 Graphing Calculator,"The calculator that does it all.",Electronics,134.99,78,new,4.9
+18797,Nike Soccer Practice Shirt Dri-Fit -Medium,null,Sports and Outdoors,32.99,6987,new,4.7
+19435,Kindle Fire HD 32GB,"8-inch HD display w/ Dual-Band Dual-Antenna Wi-Fi",Electronics,299.99,6598,new,4.7
+20222,Iphone 6 320GB,"The next generation of phones by Apple guarantees to change what the world defines a phone.",Electronics,589.99,992454083,new,4.8
+20891,League of Legends Classics Skins Pack,"Own the fan favorite skins for the original LoL champs.",Video Games,25.99,310856,new,4.4
+21551,L-shaped Leather Couch-White,null,Furniture,1239.99,103,new,4.5
+22697,320GB iPod Nano 7-generation,null,Electronics,249.99,6897,new,4.6
+23508,Gilette Fusion Pro Glide 8-Count,null,Health and Personal Care,26.99,3194,new,4.6
+34313,Megamind Blu-Ray,"This year's number 1 animated movie in America; the best animated movie since the Incredibles.",Movies and TV Shows,23.99,14321,new,5.0
+39821,Silver Spoon set-12 count,null,Miscellaneous,25.99,156,new,4.1
+40198,Pinaud Clubman Hair Gel-16oz,"Perfect product for a new haircut or for a guido looking to impress the ladies!",Beauty,8.99,489,new,3.8
+43867,Black and Decker Coffee Maker,"If you've never had one of these then you've never had the best coffee.",Kitchen,24.99,4869,new,4.1
+49862,Xbox 720,"Microsoft's most powerful video game console is back and better than ever with better games and better hardware.",Video Games,299.99,897,new,4.7
+50110,50 Shades of Grey,"The most sexual drama ever written. A masterful mix of elements that will leave you mid-blown.",Books,19.99,9580,new,4.9
+50198,God of War 3,"Take control of Kratos on his journey for revenge against the gods of Olympus.",Video Games,39.99,49,used,4.8
